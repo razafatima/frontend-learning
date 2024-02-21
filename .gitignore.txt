@@ -1,0 +1,2 @@
+taskmanager/public
+taskmanager/node_modules

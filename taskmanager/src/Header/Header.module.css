@@ -1,0 +1,73 @@
+
+.label1{
+    font-size: 1.5rem;
+    position: absolute;
+    top: 4rem;
+    left: 30rem;
+}
+.title1{
+    width: 30rem;
+    height: 3rem;
+    position: absolute;
+    top: 9rem;
+    left: 30rem;
+    
+}
+.label2{
+    font-size: 1.5rem;
+    position: absolute;
+    top: 15rem;
+    left: 30rem;
+}
+.title2{
+    width: 30rem;
+    height: 4rem;
+    position: absolute;
+    top: 19rem;
+    left: 30rem;
+}
+.container{
+       background-color:#8CB9BD;
+       width:20rem;
+       height: 40rem;
+       margin-top: 0.5rem;
+       border-radius: 2rem;
+       overflow: auto;
+}
+.button1{
+    position: absolute;
+    bottom: 10rem;
+    right: 20rem;  
+}
+.addbutton{
+    width: 5rem;
+    height: 2rem;
+}
+.container2{
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+}
+.todo{
+    display: flex;
+    justify-content: space-between;
+    background-color: aqua;
+    max-width: 18rem;
+    border-radius: 1rem;
+    height: fit-content;
+    padding: 0px 5px;
+}
+ .action > button{
+    background-color: #d3a55b;
+    border-color: #FEFBF6;
+    color: black;
+    height: 30px;
+    width: 75px;
+    font-size: 1.05rem;
+    border-radius: 10px;
+    position: relative;
+    top: 4rem;
+    right: 0.5rem;
+}

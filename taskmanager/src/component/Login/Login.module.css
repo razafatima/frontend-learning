@@ -1,0 +1,87 @@
+.Login2{
+    background-image: url("login.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+.Login{
+   background-color: aliceblue;
+   width: 68rem;
+   height: 32rem;
+   margin: 5rem 6rem;
+}
+.img{
+    background-image: url("loginfront.jpg");
+    width: 45rem;
+    height: 32rem;
+    background-repeat: no-repeat;
+    background-size: cover;  
+    position: absolute;
+    left: 30rem;   
+}
+.loginuser1{
+    margin-right: 60rem;
+    position: absolute;
+    top: 13rem;
+    right: 8rem;
+    
+}
+.loginForm{
+    width: 24rem; 
+}
+.input1{
+    position: absolute;
+    top: 15rem;
+    right:57.5rem;
+    height: 1.5rem;
+    width: 15rem;
+}
+.header{
+    margin-right: 45rem;
+    position: absolute;
+    top: 6rem;
+    left: 13rem;
+}
+.loginuser2{
+    margin-right: 60rem;
+    position: absolute;
+    top: 20rem;
+    right: 8rem;
+    
+}
+.loginForm2{
+    width: 24rem; 
+}
+.input2{
+    position: absolute;
+    top: 22rem;
+    right:57.5rem;
+    height: 1.5rem;
+    width: 15rem;
+}
+.btn{
+    position: absolute;
+    left: 9.5rem;
+    top: 28rem;
+    cursor: pointer;
+    background-color: #04AA6D;
+    border: none;
+    border-radius: 10px;
+    width: 6rem;
+    height: 2rem;
+    color: black;
+}
+.btn2{
+    position: absolute;
+    left: 19rem;
+    top: 28rem;
+    cursor: pointer;
+    background-color: #04AA6D;
+    border: none;
+    border-radius: 10px;
+    width: 6rem;
+    height: 2rem;
+    color: black;   
+}
+
+
