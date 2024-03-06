@@ -1,4 +1,4 @@
-import Header from './Header/Header';
+import Main from './component/Main/Main';
 import Login from './component/Login/Login';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 
@@ -10,7 +10,7 @@ export default function App() {
       <Routes>
         
           <Route index element={<Login/>}/>
-          <Route path="/Header" element={<Header/>}/>
+          <Route path="/Main" element={<Main/>}/>
         
         </Routes>
       </BrowserRouter>

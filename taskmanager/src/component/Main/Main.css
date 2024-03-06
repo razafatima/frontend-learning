@@ -1,0 +1,15 @@
+.card{
+    min-height: 600px;
+}
+.custom{
+    height: 300px;
+    width: 35rem;
+    margin-top: 19px; 
+    margin-left: 10px;
+}
+.row-2{
+    max-height: 300px;
+    max-width: 450px;
+    margin-top: 19px;
+    margin-left: 10px;
+}

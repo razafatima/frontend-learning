@@ -8,7 +8,7 @@ function Login(){
     const navigate = useNavigate();
 
     const handleclick = () => {
-        navigate("/Header")
+        navigate("/Main")
     };
 
         

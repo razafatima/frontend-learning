@@ -57,9 +57,9 @@ function Header() {
                value={taskInput}
                onChange={handleTaskInputChange}
             />
-         </div>
+        
          {/* Description input field */}
-         <div className={Style.row2}>
+         
             <label className={Style.label2}><b>Enter Description</b></label>
             <input
                type="text"
@@ -69,7 +69,7 @@ function Header() {
                value={descriptionInput}
                onChange={handleDescriptionInputChange}
             />
-         </div>
+          </div>
          {/* Add button to add new todo */}
          <div className={Style.button1}>
             <button className={Style.addbutton} onClick={addTodo}>Add</button>
